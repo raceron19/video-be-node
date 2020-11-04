@@ -1,0 +1,2 @@
+rE3Hc3p6SVhU
+mongodb+srv://db_user_video:<password>@cluster0.afn1q.mongodb.net/<dbname>?retryWrites=true&w=majority
