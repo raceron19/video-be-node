@@ -183,6 +183,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-.vscode
+.vscode/
+
+movies_api/.vercel
+movies_api/.nyc_output
+movies_api/coverage
 
 # End of https://www.toptal.com/developers/gitignore/api/node,macos,linux,windows
